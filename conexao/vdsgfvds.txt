@@ -1,0 +1,3 @@
+seuBotao.setBorderPainted(false);
+seuBotao.setContentAreaFilled(false);
+seuBotao.setFocusPainted(false);
